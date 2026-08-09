@@ -1,0 +1,101 @@
+InvoiceNo,InvoiceDate,Description,UnitPrice,Quantity,Country,Category
+INV-9001,2024-05-10,Wireless Mouse,25.0,2,United States,Tech Accessories
+INV-9002,05/12/2024,Gaming Keyboard,75.5,1,Germany,Computer Peripherals
+INV-9003,2024-06-01,USB Hub,15.0,5,United Kingdom,Accessories
+INV-9004,2024-07-20,HD WebCam,45.0,3,Canada,Video
+INV-9005,2024-05-10,Mechanical Keyboard,120.0,2,France,Keyboards
+INV-9006,05/12/2024,Wireless Mouse,25.0,2,United States,Tech Accessories
+INV-9007,2024-06-01,Gaming Keyboard,75.5,1,Germany,Computer Peripherals
+INV-9008,2024-07-20,USB Hub,15.0,5,United Kingdom,Accessories
+INV-9009,2024-05-10,HD WebCam,45.0,3,Canada,Video
+INV-90010,05/12/2024,Mechanical Keyboard,120.0,2,France,Keyboards
+INV-90011,2024-06-01,Wireless Mouse,25.0,2,United States,Tech Accessories
+INV-90012,2024-07-20,Gaming Keyboard,75.5,1,Germany,Computer Peripherals
+INV-90013,2024-05-10,USB Hub,15.0,5,United Kingdom,Accessories
+INV-90014,05/12/2024,HD WebCam,45.0,3,Canada,Video
+INV-90015,2024-06-01,Mechanical Keyboard,120.0,2,France,Keyboards
+INV-90016,2024-07-20,Wireless Mouse,25.0,2,United States,Tech Accessories
+INV-90017,2024-05-10,Gaming Keyboard,75.5,1,Germany,Computer Peripherals
+INV-90018,05/12/2024,USB Hub,15.0,5,United Kingdom,Accessories
+INV-90019,2024-06-01,HD WebCam,45.0,3,Canada,Video
+INV-90020,2024-07-20,Mechanical Keyboard,120.0,2,France,Keyboards
+INV-90021,2024-05-10,Wireless Mouse,25.0,2,United States,Tech Accessories
+INV-90022,05/12/2024,Gaming Keyboard,75.5,1,Germany,Computer Peripherals
+INV-90023,2024-06-01,USB Hub,15.0,5,United Kingdom,Accessories
+INV-90024,2024-07-20,HD WebCam,45.0,3,Canada,Video
+INV-90025,2024-05-10,Mechanical Keyboard,120.0,2,France,Keyboards
+INV-90026,05/12/2024,Wireless Mouse,25.0,2,United States,Tech Accessories
+INV-90027,2024-06-01,Gaming Keyboard,75.5,1,Germany,Computer Peripherals
+INV-90028,2024-07-20,USB Hub,15.0,5,United Kingdom,Accessories
+INV-90029,2024-05-10,HD WebCam,45.0,3,Canada,Video
+INV-90030,05/12/2024,Mechanical Keyboard,120.0,2,France,Keyboards
+INV-90031,2024-06-01,Wireless Mouse,25.0,2,United States,Tech Accessories
+INV-90032,2024-07-20,Gaming Keyboard,75.5,1,Germany,Computer Peripherals
+INV-90033,2024-05-10,USB Hub,15.0,5,United Kingdom,Accessories
+INV-90034,05/12/2024,HD WebCam,45.0,3,Canada,Video
+INV-90035,2024-06-01,Mechanical Keyboard,120.0,2,France,Keyboards
+INV-90036,2024-07-20,Wireless Mouse,25.0,2,United States,Tech Accessories
+INV-90037,2024-05-10,Gaming Keyboard,75.5,1,Germany,Computer Peripherals
+INV-90038,05/12/2024,USB Hub,15.0,5,United Kingdom,Accessories
+INV-90039,2024-06-01,HD WebCam,45.0,3,Canada,Video
+INV-90040,2024-07-20,Mechanical Keyboard,120.0,2,France,Keyboards
+INV-90041,2024-05-10,Wireless Mouse,25.0,2,United States,Tech Accessories
+INV-90042,05/12/2024,Gaming Keyboard,75.5,1,Germany,Computer Peripherals
+INV-90043,2024-06-01,USB Hub,15.0,5,United Kingdom,Accessories
+INV-90044,2024-07-20,HD WebCam,45.0,3,Canada,Video
+INV-90045,2024-05-10,Mechanical Keyboard,120.0,2,France,Keyboards
+INV-90046,05/12/2024,Wireless Mouse,25.0,2,United States,Tech Accessories
+INV-90047,2024-06-01,Gaming Keyboard,75.5,1,Germany,Computer Peripherals
+INV-90048,2024-07-20,USB Hub,15.0,5,United Kingdom,Accessories
+INV-90049,2024-05-10,HD WebCam,45.0,3,Canada,Video
+INV-90050,05/12/2024,Mechanical Keyboard,120.0,2,France,Keyboards
+INV-90051,2024-06-01,Wireless Mouse,25.0,2,United States,Tech Accessories
+INV-90052,2024-07-20,Gaming Keyboard,75.5,1,Germany,Computer Peripherals
+INV-90053,2024-05-10,USB Hub,15.0,5,United Kingdom,Accessories
+INV-90054,05/12/2024,HD WebCam,45.0,3,Canada,Video
+INV-90055,2024-06-01,Mechanical Keyboard,120.0,2,France,Keyboards
+INV-90056,2024-07-20,Wireless Mouse,25.0,2,United States,Tech Accessories
+INV-90057,2024-05-10,Gaming Keyboard,75.5,1,Germany,Computer Peripherals
+INV-90058,05/12/2024,USB Hub,15.0,5,United Kingdom,Accessories
+INV-90059,2024-06-01,HD WebCam,45.0,3,Canada,Video
+INV-90060,2024-07-20,Mechanical Keyboard,120.0,2,France,Keyboards
+INV-90061,2024-05-10,Wireless Mouse,25.0,2,United States,Tech Accessories
+INV-90062,05/12/2024,Gaming Keyboard,75.5,1,Germany,Computer Peripherals
+INV-90063,2024-06-01,USB Hub,15.0,5,United Kingdom,Accessories
+INV-90064,2024-07-20,HD WebCam,45.0,3,Canada,Video
+INV-90065,2024-05-10,Mechanical Keyboard,120.0,2,France,Keyboards
+INV-90066,05/12/2024,Wireless Mouse,25.0,2,United States,Tech Accessories
+INV-90067,2024-06-01,Gaming Keyboard,75.5,1,Germany,Computer Peripherals
+INV-90068,2024-07-20,USB Hub,15.0,5,United Kingdom,Accessories
+INV-90069,2024-05-10,HD WebCam,45.0,3,Canada,Video
+INV-90070,05/12/2024,Mechanical Keyboard,120.0,2,France,Keyboards
+INV-90071,2024-06-01,Wireless Mouse,25.0,2,United States,Tech Accessories
+INV-90072,2024-07-20,Gaming Keyboard,75.5,1,Germany,Computer Peripherals
+INV-90073,2024-05-10,USB Hub,15.0,5,United Kingdom,Accessories
+INV-90074,05/12/2024,HD WebCam,45.0,3,Canada,Video
+INV-90075,2024-06-01,Mechanical Keyboard,120.0,2,France,Keyboards
+INV-90076,2024-07-20,Wireless Mouse,25.0,2,United States,Tech Accessories
+INV-90077,2024-05-10,Gaming Keyboard,75.5,1,Germany,Computer Peripherals
+INV-90078,05/12/2024,USB Hub,15.0,5,United Kingdom,Accessories
+INV-90079,2024-06-01,HD WebCam,45.0,3,Canada,Video
+INV-90080,2024-07-20,Mechanical Keyboard,120.0,2,France,Keyboards
+INV-90081,2024-05-10,Wireless Mouse,25.0,2,United States,Tech Accessories
+INV-90082,05/12/2024,Gaming Keyboard,75.5,1,Germany,Computer Peripherals
+INV-90083,2024-06-01,USB Hub,15.0,5,United Kingdom,Accessories
+INV-90084,2024-07-20,HD WebCam,45.0,3,Canada,Video
+INV-90085,2024-05-10,Mechanical Keyboard,120.0,2,France,Keyboards
+INV-90086,05/12/2024,Wireless Mouse,25.0,2,United States,Tech Accessories
+INV-90087,2024-06-01,Gaming Keyboard,75.5,1,Germany,Computer Peripherals
+INV-90088,2024-07-20,USB Hub,15.0,5,United Kingdom,Accessories
+INV-90089,2024-05-10,HD WebCam,45.0,3,Canada,Video
+INV-90090,05/12/2024,Mechanical Keyboard,120.0,2,France,Keyboards
+INV-90091,2024-06-01,Wireless Mouse,25.0,2,United States,Tech Accessories
+INV-90092,2024-07-20,Gaming Keyboard,75.5,1,Germany,Computer Peripherals
+INV-90093,2024-05-10,USB Hub,15.0,5,United Kingdom,Accessories
+INV-90094,05/12/2024,HD WebCam,45.0,3,Canada,Video
+INV-90095,2024-06-01,Mechanical Keyboard,120.0,2,France,Keyboards
+INV-90096,2024-07-20,Wireless Mouse,25.0,2,United States,Tech Accessories
+INV-90097,2024-05-10,Gaming Keyboard,75.5,1,Germany,Computer Peripherals
+INV-90098,05/12/2024,USB Hub,15.0,5,United Kingdom,Accessories
+INV-90099,2024-06-01,HD WebCam,45.0,3,Canada,Video
+INV-900100,2024-07-20,Mechanical Keyboard,120.0,2,France,Keyboards

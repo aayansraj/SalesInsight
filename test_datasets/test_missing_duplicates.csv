@@ -1,0 +1,44 @@
+Order_ID,Order_Date,Customer_Name,Region,Product_Name,Unit_Price,Quantity,Total_Sales
+ORD-DIRTY-1,2024-08-01,Aarav,  west ,Smart Appliance,199.99,1,199.99
+ORD-DIRTY-2,2024-08-01,,NORTH,Wireless Earbuds,,2,
+ORD-DIRTY-3,2024-08-01,Priya,,Leather Armchair,350.0,1,350.0
+ORD-DIRTY-4,2024-08-01,Rohan,East,Oak Table,499.0,1,499.0
+ORD-DIRTY-5,2024-08-01,,  south ,Paper Pack,12.5,5,62.5
+ORD-DIRTY-6,2024-08-01,Aarav,  west ,Smart Appliance,199.99,1,199.99
+ORD-DIRTY-7,2024-08-01,,NORTH,Wireless Earbuds,,2,
+ORD-DIRTY-8,2024-08-01,Priya,,Leather Armchair,350.0,1,350.0
+ORD-DIRTY-9,2024-08-01,Rohan,East,Oak Table,499.0,1,499.0
+ORD-DIRTY-10,2024-08-01,,  south ,Paper Pack,12.5,5,62.5
+ORD-DIRTY-11,2024-08-01,Aarav,  west ,Smart Appliance,199.99,1,199.99
+ORD-DIRTY-12,2024-08-01,,NORTH,Wireless Earbuds,,2,
+ORD-DIRTY-13,2024-08-01,Priya,,Leather Armchair,350.0,1,350.0
+ORD-DIRTY-14,2024-08-01,Rohan,East,Oak Table,499.0,1,499.0
+ORD-DIRTY-15,2024-08-01,,  south ,Paper Pack,12.5,5,62.5
+ORD-DIRTY-16,2024-08-01,Aarav,  west ,Smart Appliance,199.99,1,199.99
+ORD-DIRTY-17,2024-08-01,,NORTH,Wireless Earbuds,,2,
+ORD-DIRTY-18,2024-08-01,Priya,,Leather Armchair,350.0,1,350.0
+ORD-DIRTY-19,2024-08-01,Rohan,East,Oak Table,499.0,1,499.0
+ORD-DIRTY-20,2024-08-01,,  south ,Paper Pack,12.5,5,62.5
+ORD-DIRTY-21,2024-08-01,Aarav,  west ,Smart Appliance,199.99,1,199.99
+ORD-DIRTY-22,2024-08-01,,NORTH,Wireless Earbuds,,2,
+ORD-DIRTY-23,2024-08-01,Priya,,Leather Armchair,350.0,1,350.0
+ORD-DIRTY-24,2024-08-01,Rohan,East,Oak Table,499.0,1,499.0
+ORD-DIRTY-25,2024-08-01,,  south ,Paper Pack,12.5,5,62.5
+ORD-DIRTY-26,2024-08-01,Aarav,  west ,Smart Appliance,199.99,1,199.99
+ORD-DIRTY-27,2024-08-01,,NORTH,Wireless Earbuds,,2,
+ORD-DIRTY-28,2024-08-01,Priya,,Leather Armchair,350.0,1,350.0
+ORD-DIRTY-29,2024-08-01,Rohan,East,Oak Table,499.0,1,499.0
+ORD-DIRTY-30,2024-08-01,,  south ,Paper Pack,12.5,5,62.5
+ORD-DIRTY-31,2024-08-01,Aarav,  west ,Smart Appliance,199.99,1,199.99
+ORD-DIRTY-32,2024-08-01,,NORTH,Wireless Earbuds,,2,
+ORD-DIRTY-33,2024-08-01,Priya,,Leather Armchair,350.0,1,350.0
+ORD-DIRTY-34,2024-08-01,Rohan,East,Oak Table,499.0,1,499.0
+ORD-DIRTY-35,2024-08-01,,  south ,Paper Pack,12.5,5,62.5
+ORD-DIRTY-36,2024-08-01,Aarav,  west ,Smart Appliance,199.99,1,199.99
+ORD-DIRTY-37,2024-08-01,,NORTH,Wireless Earbuds,,2,
+ORD-DIRTY-38,2024-08-01,Priya,,Leather Armchair,350.0,1,350.0
+ORD-DIRTY-39,2024-08-01,Rohan,East,Oak Table,499.0,1,499.0
+ORD-DIRTY-40,2024-08-01,,  south ,Paper Pack,12.5,5,62.5
+ORD-DIRTY-1,2024-08-01,Aarav,  west ,Smart Appliance,199.99,1,199.99
+ORD-DIRTY-2,2024-08-01,Priya,NORTH,Wireless Earbuds,50.0,2,100.0
+ORD-DIRTY-3,2024-08-01,Rohan,,Leather Armchair,350.0,1,350.0
